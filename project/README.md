@@ -9,8 +9,8 @@ You'll be building a single, evolving project over 6 weeks that demonstrates mas
 ## Weekly Milestones
 
 ### Week 1: Development Environment Setup
-- [ ] Fork the template repository
-- [ ] Set up your development environment (VS Code, rust-analyzer, etc.)
+- [x] Fork the template repository
+- [x] Set up your development environment (VS Code, rust-analyzer, etc.)
 - [ ] Initialize your project structure
 - [ ] Get familiar with Cargo and basic Rust tooling
 
